@@ -19,8 +19,12 @@ h2 { color:white; text-align:center; font-family: sans-serif}
  }
 
  div.photo-frame {
+ 	height: 100px;
+	width: 100px;
+	border-radius: 100px;
+	text-align: center;
  	width: 100%;
-
+ 	margin: auto;
  }
 
 div > img {
@@ -29,4 +33,5 @@ div > img {
 	border: 2px solid black;
 	border-radius: 100px;
 	text-align: center;
+	margin: auto;
 }
