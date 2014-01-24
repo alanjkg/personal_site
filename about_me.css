@@ -1,0 +1,32 @@
+body {
+	font-family: 'Helvetica Neue', 'Helvetica', 'Arial', sans-serif;
+	color: #ccc;
+	background-color: #444;
+	font-size: 16px;
+}
+
+h2 { color:white; text-align:center; font-family: sans-serif}
+ p{text-align:center; color:white;}
+
+ .section-title {
+
+ }
+
+ .about-me-developer {
+ 	text-align: center;
+ 	width: 300px;
+ 	margin: auto;
+ }
+
+ div.photo-frame {
+ 	width: 100%;
+
+ }
+
+div > img {
+	height: 100px;
+	width: 100px;
+	border: 2px solid black;
+	border-radius: 100px;
+	text-align: center;
+}
